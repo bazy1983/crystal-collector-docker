@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bazy1983/crystal-collector-docker/issues"
   },
-  "homepage": "https://github.com/bazy1983/crystal-collector-docker#readme"
+  "homepage": "https://github.com/bazy1983/crystal-collector-docker#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
