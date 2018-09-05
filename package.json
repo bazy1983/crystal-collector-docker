@@ -1,0 +1,20 @@
+{
+  "name": "crystal-collector-docker",
+  "version": "1.0.0",
+  "description": "the crystal collector is a project built using HTML, CSS, JS, jQuery.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bazy1983/crystal-collector-docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bazy1983/crystal-collector-docker/issues"
+  },
+  "homepage": "https://github.com/bazy1983/crystal-collector-docker#readme"
+}
